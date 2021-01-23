@@ -1,2 +1,3 @@
 # hello-world
-hello word project
+
+These are my changes to the hello world file
